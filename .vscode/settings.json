@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "WEEK2/CODE/JUNIT5/basic",
+        "WEEK2/CODE/JUNIT5/advanced",
+        "WEEK1/CODE/DESIGN PATTERNS/10_MVCPatternExample",
+        "WEEK1/CODE/ALGORITHMS AND DS",
+        "WEEK2/CODE/3_SLF4J_Logging/src/test/java/com/example/app"
+    ]
+}
