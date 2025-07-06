@@ -5,5 +5,6 @@
         "WEEK1/CODE/DESIGN PATTERNS/10_MVCPatternExample",
         "WEEK1/CODE/ALGORITHMS AND DS",
         "WEEK2/CODE/3_SLF4J_Logging/src/test/java/com/example/app"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
